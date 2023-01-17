@@ -11,6 +11,7 @@ public class FileOutputStream {
             fis.read(b);
             String str = new String(b);
             System.out.println(str);
+            fis.close();
         }
         catch (IOException e){
             e.printStackTrace();
