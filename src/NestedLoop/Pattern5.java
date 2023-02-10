@@ -1,4 +1,11 @@
-package NestedLoop;
+//        1 2 3 4 5
+//        1 2 3 4
+//        1 2 3
+//        1 2
+//        1
+
+
+        package NestedLoop;
 
 public class Pattern5 {
     public static void main(String[] args) {
